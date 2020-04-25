@@ -1,2 +1,6 @@
 # kd_tree
-kd木をpythonで実装
+kd-treeをC++で実装
+
+## 機能
+・kd-treeの構築
+・最近傍探索
